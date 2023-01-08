@@ -121,7 +121,7 @@
     font-size: 25px;
 }
 
-/* last Banner */
+/* gradient styles */
 .last-banner {
     background-image: url(../images/watch.png), url(../images/gradient3.png);
     background-blend-mode: overlay;
